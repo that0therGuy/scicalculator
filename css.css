@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,200&display=swap');
 body{
     font-family:"Poppins",Arial, Helvetica, sans-serif;
+    background: linear-gradient(90deg, rgba(197,194,241,.4) 0%, rgba(141,230,248,.3) 100%);
 }
 .title{
     display:flex;
